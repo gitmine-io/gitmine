@@ -4,4 +4,5 @@ function validateEmail(email) {
 
    return r.test(email);
 }
+
 export default validateEmail;
